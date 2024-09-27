@@ -40,6 +40,6 @@ Beyond coding, I enjoy diving into **Video Games**, exploring **Machine Learning
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanravi2004&show_icons=true&theme=radical)](https://github.com/rohanravi2004)
-![](https://github-profile-trophy.vercel.app/?username=xsol05&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/>
+![](https://github-profile-trophy.vercel.app/?username=rohanravi2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/>
 <h3 align="left"> Feel free to explore my projects and reach out! </h3>
 <h3 align="center"> Thank you for visiting! ❤️ </h3>
